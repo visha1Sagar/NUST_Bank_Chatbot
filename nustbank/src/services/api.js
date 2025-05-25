@@ -1,5 +1,5 @@
 // src/services/api.js
-const API_BASE_URL = 'https://4341-34-125-113-60.ngrok-free.app';
+const API_BASE_URL = 'https:localhost.com:8000';
 
 const defaultHeaders = {
   'Accept': 'application/json',
